@@ -3,7 +3,8 @@
 
 **Hook** là một điểm trong chương trình cho phép bạn **chèn (inject) code của riêng mình** để mở rộng hoặc thay đổi hành vi mặc định của hệ thống. Nói cách khác, nó là một **"điểm móc"** nơi bạn có thể **can thiệp** trước, trong hoặc sau một hành động đã được xác định.
 
-***Hành vi mặc định của hệ thống là gì?***
+**Hành vi mặc định của hệ thống là gì?**
+
 Hành vi mặc định là những gì hệ thống thực hiện một cách tự động khi không có bất kỳ sự can thiệp hay cấu hình tùy chỉnh nào từ phía người dùng hoặc lập trình viên.
 
 📌 Nói cách khác, đó là cách mà một chương trình, framework hoặc component vận hành theo thiết kế ban đầu nếu bạn không thay đổi, ghi đè hay can thiệp gì vào nó.
