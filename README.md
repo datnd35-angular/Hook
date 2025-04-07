@@ -1,6 +1,3 @@
-Dưới đây là **tóm tắt** ngắn gọn và đầy đủ ý về khái niệm **"Hook" trong lập trình** dựa trên tổng hợp các câu trả lời chất lượng cao từ bài viết Stack Overflow:
-
----
 
 ### 🔧 **Hook trong lập trình là gì?**
 
